@@ -25,12 +25,15 @@ Abstract Data Types (ADT) – List ADT – array-based implementation – linked
 {{{unit}}}
 |Unit II | Linear Data Structures – Stacks & queues | 9 |
 Stack ADT – Operations – Applications – Balancing the symbols, Conversion of infix to postfix expression, Evaluating arithmetic expressions - Queue ADT – Operations - circular queue – Double ended queue – Applications of queues
+
 {{{unit}}}
 |Unit III | Non Linear Data Structures – Trees    | 9 |
 Tree ADT – Preliminaries - Tree traversals – Binary Tree ADT – expression trees – binary search tree ADT - AVL Trees – Splay Trees – B-Tree – Binary heaps.
+
 {{{unit}}}
 |Unit IV | Non Linear Data Structures – Graphs | 9 |
 Definitions – Representation of graph – Types of graph - Breadth-first traversal – Depth first traversal -Topological sort – shortest-path algorithms – biconnectivity – cut vertex - Euler circuits.
+
 {{{unit}}}
 |Unit V | Searching, Sorting and Hashing Techniques  | 9 |
 Searching - Linear search – Binary search – Sorting – Insertion sort- Shell sort – Radix sort – Quick sort – Hashing – Hash functions - Separate chaining – open addressing – rehashing – extendible hashing.
